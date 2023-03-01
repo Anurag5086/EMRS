@@ -2,7 +2,8 @@
 SQLyog Ultimate v12.09 (64 bit)
 MySQL - 10.4.14-MariaDB : Database - emr
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
